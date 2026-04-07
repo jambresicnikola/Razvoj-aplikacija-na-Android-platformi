@@ -1,0 +1,21 @@
+<resources>
+    <string name="appName">BMI Kalkulator</string>
+    <string name="heightLabel">Visina (cm):</string>
+    <string name="weightLabel">Težina (kg):</string>
+    <string name="heightHint">npr. 175</string>
+    <string name="weightHint">npr. 70</string>
+    <string name="btnCalculate">Izračunaj BMI</string>
+    <string name="resultLabel">Vaš BMI:</string>
+    <string name="categoryLabel">Kategorija:</string>
+    <string name="tooSkinnyBMI">Premršav</string>
+    <string name="normalBMI">Normalna težina</string>
+    <string name="overweightBMI">Prekomjerna težina</string>
+    <string name="obeseBMI">Pretilost</string>
+    <string name="themeLabel">Tema boja:</string>
+    <string name="inputError">Molimo unesite ispravne vrijednosti!</string>
+
+    <string-array name="themes">
+        <item>Svjetla tema</item>
+        <item>Tamna tema</item>
+    </string-array>
+</resources>

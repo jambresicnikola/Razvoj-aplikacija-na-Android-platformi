@@ -1,0 +1,20 @@
+<resources>
+    <string name="appName">BMI Rechner</string>
+    <string name="heightLabel">Größe (cm):</string>
+    <string name="weightLabel">Gewicht (kg):</string>
+    <string name="heightHint">z.B. 175</string>
+    <string name="weightHint">z.B. 70</string>
+    <string name="btnCalculate">BMI berechnen</string>
+    <string name="resultLabel">Ihr BMI:</string>
+    <string name="categoryLabel">Kategorie:</string>
+    <string name="tooSkinnyBMI">Untergewicht</string>
+    <string name="normalBMI">Normalgewicht</string>
+    <string name="overweightBMI">Übergewicht</string>
+    <string name="obeseBMI">Fettleibigkeit</string>
+    <string name="themeLabel">Farbthema:</string>
+    <string name="inputError">Bitte gültige Werte eingeben!</string>
+    <string-array name="themes">
+        <item>Helles Thema</item>
+        <item>Dunkles Thema</item>
+    </string-array>
+</resources>

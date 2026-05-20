@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMW Cars</string>
+    <string name="title_car_list">BMW Models</string>
+    <string name="title_car_details">Car Details</string>
+    <string name="title_car_image">Car Image</string>
+
+    <string name="label_series">Series</string>
+    <string name="label_year">Year</string>
+    <string name="label_engine">Engine</string>
+    <string name="label_horsepower">Horsepower</string>
+    <string name="label_hp">hp</string>
+    <string name="label_description">Description</string>
+
+    <string name="btn_visit_website">Visit Official Website</string>
+    <string name="btn_close">Close</string>
+
+    <string name="menu_share">Share</string>
+    <string name="share_dialog_title">Share this car?</string>
+    <string name="share_dialog_message">Do you want to share information about this car?</string>
+    <string name="share_dialog_yes">Share</string>
+    <string name="share_dialog_no">Cancel</string>
+
+    <string name="broadcast_received">Broadcast received!</string>
+    <string name="car_shared">Car info shared successfully!</string>
+</resources>

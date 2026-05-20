@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMW Automobili</string>
+    <string name="title_car_list">BMW Modeli</string>
+    <string name="title_car_details">Detalji Automobila</string>
+    <string name="title_car_image">Slika Automobila</string>
+
+    <string name="label_series">Serija</string>
+    <string name="label_year">Godina</string>
+    <string name="label_engine">Motor</string>
+    <string name="label_horsepower">Konjske snage</string>
+    <string name="label_hp">KS</string>
+    <string name="label_description">Opis</string>
+
+    <string name="btn_visit_website">Posjeti službenu stranicu</string>
+    <string name="btn_close">Zatvori</string>
+
+    <string name="menu_share">Podijeli</string>
+    <string name="share_dialog_title">Podijeliti ovaj auto?</string>
+    <string name="share_dialog_message">Želite li podijeliti informacije o ovom automobilu?</string>
+    <string name="share_dialog_yes">Podijeli</string>
+    <string name="share_dialog_no">Odustani</string>
+
+    <string name="broadcast_received">Broadcast primljen!</string>
+    <string name="car_shared">Informacije o autu uspješno podijeljene!</string>
+</resources>

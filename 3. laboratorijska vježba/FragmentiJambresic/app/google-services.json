@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751962527237",
+    "project_id": "bmw-cars-46185",
+    "storage_bucket": "bmw-cars-46185.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751962527237:android:a53d003c112b4621b36e6c",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.listajambresic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi-1OagjMp4F5jszZW4oEhKkuPyXRWU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

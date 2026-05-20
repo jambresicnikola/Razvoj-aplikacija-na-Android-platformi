@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bmw_blue">#1C69D3</color>
+    <color name="bmw_blue_dark">#0A3D8F</color>
+    <color name="bmw_dark">#1A1A1A</color>
+    <color name="bmw_light_gray">#F2F4F7</color>
+    <color name="bmw_medium_gray">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

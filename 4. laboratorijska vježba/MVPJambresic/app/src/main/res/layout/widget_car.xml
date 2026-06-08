@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bmw_dark"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/imgWidget"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bmw_car_bg" />
+
+    <TextView
+        android:id="@+id/tvWidgetModelName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginTop="4dp"
+        android:text="BMW Cars" />
+
+    <TextView
+        android:id="@+id/tvWidgetSeries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/bmw_blue"
+        android:textSize="12sp"
+        android:text="Loading..." />
+
+</LinearLayout>

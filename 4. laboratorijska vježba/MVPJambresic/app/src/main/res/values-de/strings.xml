@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMW Autos</string>
+    <string name="title_car_list">BMW Modelle</string>
+    <string name="title_car_details">Auto Details</string>
+    <string name="title_car_image">Auto Bild</string>
+
+    <string name="label_series">Serie</string>
+    <string name="label_year">Jahr</string>
+    <string name="label_engine">Motor</string>
+    <string name="label_horsepower">Pferdestärke</string>
+    <string name="label_hp">PS</string>
+    <string name="label_description">Beschreibung</string>
+
+    <string name="btn_visit_website">Offizielle Website besuchen</string>
+    <string name="btn_close">Schließen</string>
+
+    <string name="menu_share">Teilen</string>
+    <string name="share_dialog_title">Dieses Auto teilen?</string>
+    <string name="share_dialog_message">Möchten Sie Informationen über dieses Auto teilen?</string>
+    <string name="share_dialog_yes">Teilen</string>
+    <string name="share_dialog_no">Abbrechen</string>
+
+    <string name="broadcast_received">Broadcast empfangen!</string>
+    <string name="car_shared">Auto-Info erfolgreich geteilt!</string>
+</resources>

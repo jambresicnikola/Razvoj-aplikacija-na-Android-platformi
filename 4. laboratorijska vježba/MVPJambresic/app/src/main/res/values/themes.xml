@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MVPJambresic" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/bmw_blue</item>
+        <item name="colorPrimaryVariant">@color/bmw_blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/bmw_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/bmw_blue_dark</item>
+    </style>
+
+    <!-- Card stilovi -->
+    <style name="BmwCardStyle">
+        <item name="cardElevation">6dp</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <!-- Tekstualni stilovi -->
+    <style name="BmwTitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/bmw_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BmwSubtitleText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/bmw_medium_gray</item>
+    </style>
+
+    <style name="BmwDetailLabel">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/bmw_blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+
+    <style name="BmwDetailValue">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/bmw_dark</item>
+    </style>
+
+    <!-- Gumb stil -->
+    <style name="BmwButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/bmw_blue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+
+</resources>
